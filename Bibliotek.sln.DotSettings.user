@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd043e17_002Dc933_002D48c0_002Dbba6_002D7a6ae62ccbfc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanCreateNewBook" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9E075DCF-67CA-47FA-8E6C-F9FCE5C785AA::net7.0::BibliotekTests.LibraryServiceTests.CanCreateNewBook&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9E075DCF-67CA-47FA-8E6C-F9FCE5C785AA::net7.0::BibliotekTests.LibraryServiceTests.CanDeleteBook&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9E075DCF-67CA-47FA-8E6C-F9FCE5C785AA::net7.0::BibliotekTests.LibraryServiceTests.CanUpdateBook&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
